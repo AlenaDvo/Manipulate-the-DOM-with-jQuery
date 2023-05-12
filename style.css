@@ -1,0 +1,22 @@
+main {
+  font-family: 'Baloo Thambi 2';
+  width: 600px;
+}
+h1 {
+  color: orange;
+}
+h2{
+  color: purple;
+}
+ul {
+  list-style: square;
+}
+ol{
+  list-style: upper-roman;
+}
+.underlined {
+  text-decoration: underline;
+}
+.pink {
+  color: pink;
+}
